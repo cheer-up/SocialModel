@@ -9,6 +9,14 @@
     padding: 10px;
 }
 
+div.bar {
+    display: inline-block;
+    width: 20px;
+    height: 75px;
+    /* We'll override height later */
+    background-color: teal;
+}
+
 .img-item {
     width: calc(25% - 15px);
     margin: 5px;
